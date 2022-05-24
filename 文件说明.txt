@@ -1,0 +1,10 @@
+2022-05-23
+参考文章：
+https://cloud.tencent.com/developer/article/1327410
+
+1、添加了工具包vl_feat toolbox的路径
+2、修改文件compile.m文件
+
+参考博客：
+https://blog.csdn.net/qq_32734095/article/details/86652360
+需要复制dll文件
